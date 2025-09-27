@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Reception.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Outside Social Commons.unity
+    guid: 634817d83b0bfc442a01a14f2005e96d
+  - enabled: 1
+    path: Assets/Scenes/Outside Reception.unity
+    guid: bc6d8cea236b780478f996b4b0c4607b
+  - enabled: 1
+    path: Assets/Scenes/Leadership Centre Downstairs.unity
+    guid: a12e0e22eabacf64bbf73ee6b0fa4d05
+  - enabled: 1
+    path: Assets/Scenes/Intro Scene.unity
+    guid: 59e9d24b683c22d4e9bcde360908989e
+  - enabled: 1
+    path: Assets/Scenes/End Scene.unity
+    guid: 3932a090ac916d14c9aa8b2ea614dab1
+  - enabled: 1
+    path: Assets/Scenes/Social Commons First Floor.unity
+    guid: ccb676701eb915341961b81a3150c4b1
+  - enabled: 1
+    path: Assets/Scenes/Social Commons Ground Floor.unity
+    guid: 57e31d4ab3ba3074daa89633a6e53bda
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ba3aaec6394999847952149fb05a1d0d,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b47cc3ebcf19fa54e9698ffd5293ddca,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6c0094fa39530534b9dc3e1f4903613f,
+      type: 2}
