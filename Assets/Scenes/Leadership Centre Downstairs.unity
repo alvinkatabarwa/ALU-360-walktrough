@@ -122,6 +122,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 --- !u!1 &198530466
 GameObject:
   m_ObjectHideFlags: 0
@@ -208,6 +209,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b2b1250fd86a3d4419125da2340e7d07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> main
 --- !u!1 &330107198
 GameObject:
   m_ObjectHideFlags: 0
@@ -251,8 +254,12 @@ Transform:
   m_LocalPosition: {x: -0.884954, y: 5.5209417, z: -0.018480986}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
+<<<<<<< HEAD
   m_Children:
   - {fileID: 307638950}
+=======
+  m_Children: []
+>>>>>>> main
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &410087039
@@ -1161,7 +1168,10 @@ GameObject:
   - component: {fileID: 1252726539}
   - component: {fileID: 1252726538}
   - component: {fileID: 1252726537}
+<<<<<<< HEAD
   - component: {fileID: 1252726540}
+=======
+>>>>>>> main
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1311,7 +1321,11 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
+<<<<<<< HEAD
   m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
+=======
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+>>>>>>> main
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1352,6 +1366,7 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
+<<<<<<< HEAD
 --- !u!114 &1252726540
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1396,6 +1411,8 @@ MonoBehaviour:
     m_MipBias: 0
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
+=======
+>>>>>>> main
 --- !u!1 &1291222995
 GameObject:
   m_ObjectHideFlags: 0
@@ -2120,6 +2137,7 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: 0}
   m_ButtonPressPoint: 0.5
+<<<<<<< HEAD
 --- !u!1 &1857512703
 GameObject:
   m_ObjectHideFlags: 0
@@ -2166,6 +2184,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> main
 --- !u!1 &2093084393
 GameObject:
   m_ObjectHideFlags: 0
@@ -2285,6 +2305,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d3d26a3bb8d72e4590b21298748aeca, type: 3}
+<<<<<<< HEAD
 --- !u!1001 &2757949973825771350
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2531,6 +2552,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 918ec87d5beba7b4abdaeeb93f84e3b4, type: 3}
+=======
+>>>>>>> main
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -2541,6 +2564,9 @@ SceneRoots:
   - {fileID: 330107200}
   - {fileID: 832906445}
   - {fileID: 1291222998}
+<<<<<<< HEAD
   - {fileID: 2757949973825771350}
   - {fileID: 198530469}
   - {fileID: 1857512705}
+=======
+>>>>>>> main

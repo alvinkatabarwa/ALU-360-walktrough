@@ -165,8 +165,12 @@ Transform:
   m_LocalPosition: {x: -0.884954, y: 5.5209417, z: -0.018480986}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
+<<<<<<< HEAD
   m_Children:
   - {fileID: 1501172538}
+=======
+  m_Children: []
+>>>>>>> main
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &410087039
@@ -1063,6 +1067,7 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: 0}
   m_ButtonPressPoint: 0.5
+<<<<<<< HEAD
 --- !u!1 &1036976743
 GameObject:
   m_ObjectHideFlags: 0
@@ -1109,6 +1114,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> main
 --- !u!1 &1252726535
 GameObject:
   m_ObjectHideFlags: 0
@@ -1376,6 +1383,7 @@ Transform:
   - {fileID: 2093084394}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1001 &1501172536
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1512,6 +1520,8 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 1501172536}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> main
 --- !u!1 &1548102612
 GameObject:
   m_ObjectHideFlags: 0
@@ -2171,6 +2181,7 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: 0}
   m_ButtonPressPoint: 0.5
+<<<<<<< HEAD
 --- !u!1001 &1949538460
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2304,6 +2315,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80f3db74bc934014489f6b6bbeeaa37e, type: 3}
+=======
+>>>>>>> main
 --- !u!1 &2093084393
 GameObject:
   m_ObjectHideFlags: 0
@@ -2403,12 +2416,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8342233726489055253, guid: 2d3d26a3bb8d72e4590b21298748aeca,
         type: 3}
+<<<<<<< HEAD
       propertyPath: m_VideoClip
       value: 
       objectReference: {fileID: 32900000, guid: d990dc0b3ffb8904881dc934db694751,
         type: 3}
     - target: {fileID: 8342233726489055253, guid: 2d3d26a3bb8d72e4590b21298748aeca,
         type: 3}
+=======
+>>>>>>> main
       propertyPath: m_TargetTexture
       value: 
       objectReference: {fileID: 8400000, guid: 15be6599da223df489d9c65beefc9b6d, type: 2}
@@ -2427,5 +2443,8 @@ SceneRoots:
   - {fileID: 330107200}
   - {fileID: 832906445}
   - {fileID: 1291222998}
+<<<<<<< HEAD
   - {fileID: 1949538460}
   - {fileID: 1036976745}
+=======
+>>>>>>> main

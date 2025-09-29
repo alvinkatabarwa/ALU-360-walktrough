@@ -165,8 +165,12 @@ Transform:
   m_LocalPosition: {x: -0.884954, y: 5.5209417, z: -0.018480986}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
+<<<<<<< HEAD
   m_Children:
   - {fileID: 934336393}
+=======
+  m_Children: []
+>>>>>>> main
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &410087039
@@ -287,6 +291,7 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 1
+<<<<<<< HEAD
 --- !u!1001 &483643299
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -420,6 +425,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 80f3db74bc934014489f6b6bbeeaa37e, type: 3}
+=======
+>>>>>>> main
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -1196,6 +1203,7 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: 0}
   m_ButtonPressPoint: 0.5
+<<<<<<< HEAD
 --- !u!1001 &934336391
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1332,6 +1340,8 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 934336391}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> main
 --- !u!1 &1252726535
 GameObject:
   m_ObjectHideFlags: 0
@@ -2258,6 +2268,7 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: 0}
   m_ButtonPressPoint: 0.5
+<<<<<<< HEAD
 --- !u!1 &2043818637
 GameObject:
   m_ObjectHideFlags: 0
@@ -2304,6 +2315,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fadeManager: {fileID: 934336392}
   sceneToLoad: Outside Social Commons
+=======
+>>>>>>> main
 --- !u!1 &2093084393
 GameObject:
   m_ObjectHideFlags: 0
@@ -2433,5 +2446,8 @@ SceneRoots:
   - {fileID: 330107200}
   - {fileID: 832906445}
   - {fileID: 1291222998}
+<<<<<<< HEAD
   - {fileID: 483643299}
   - {fileID: 2043818638}
+=======
+>>>>>>> main

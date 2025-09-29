@@ -165,8 +165,12 @@ Transform:
   m_LocalPosition: {x: -0.884954, y: 5.5209417, z: -0.018480986}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
+<<<<<<< HEAD
   m_Children:
   - {fileID: 1207580074}
+=======
+  m_Children: []
+>>>>>>> main
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &410087039
@@ -1063,6 +1067,7 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: 0}
   m_ButtonPressPoint: 0.5
+<<<<<<< HEAD
 --- !u!1001 &1207580072
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1199,6 +1204,8 @@ RectTransform:
     type: 3}
   m_PrefabInstance: {fileID: 1207580072}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> main
 --- !u!1 &1252726535
 GameObject:
   m_ObjectHideFlags: 0
@@ -1466,6 +1473,7 @@ Transform:
   - {fileID: 2093084394}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1001 &1352121523
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1645,6 +1653,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> main
 --- !u!1 &1548102612
 GameObject:
   m_ObjectHideFlags: 0
@@ -2427,5 +2437,8 @@ SceneRoots:
   - {fileID: 330107200}
   - {fileID: 832906445}
   - {fileID: 1291222998}
+<<<<<<< HEAD
   - {fileID: 1352121523}
   - {fileID: 1453231900}
+=======
+>>>>>>> main
